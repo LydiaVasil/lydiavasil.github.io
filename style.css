@@ -10,7 +10,7 @@ html,
 body {
   
   padding: 0;
-  background: #97D2FF;
+  background: #81b4db;
 }
 
 .section {
@@ -452,4 +452,10 @@ h2 {
   .group {
     display: none;
   }
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #e6eef0;
+  color: black;
 }
